@@ -1,0 +1,15 @@
+C:\dev\sortingApp\sortingApp\bin\Debug\net6.0\sortingApp.exe
+C:\dev\sortingApp\sortingApp\bin\Debug\net6.0\sortingApp.deps.json
+C:\dev\sortingApp\sortingApp\bin\Debug\net6.0\sortingApp.runtimeconfig.json
+C:\dev\sortingApp\sortingApp\bin\Debug\net6.0\sortingApp.dll
+C:\dev\sortingApp\sortingApp\bin\Debug\net6.0\sortingApp.pdb
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\sortingApp.csproj.AssemblyReference.cache
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\sortingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\sortingApp.AssemblyInfoInputs.cache
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\sortingApp.AssemblyInfo.cs
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\sortingApp.csproj.CoreCompileInputs.cache
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\sortingApp.dll
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\refint\sortingApp.dll
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\sortingApp.pdb
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\sortingApp.genruntimeconfig.cache
+C:\dev\sortingApp\sortingApp\obj\Debug\net6.0\ref\sortingApp.dll
